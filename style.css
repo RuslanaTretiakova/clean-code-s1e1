@@ -85,6 +85,10 @@ input[type="text"]:focus {
   color: #333;
 }
 
+.header__heading {
+  position: absolute;
+  visibility: hidden;
+}
 /* New Task */
 label[for="new-task"] {
   display: block;
